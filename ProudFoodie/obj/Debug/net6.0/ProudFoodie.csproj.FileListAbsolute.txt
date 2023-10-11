@@ -256,3 +256,6 @@ C:\Users\Somesh Prem\Desktop\ASP.NET Project\ProudFoodie\obj\Debug\net6.0\refint
 C:\Users\Somesh Prem\Desktop\ASP.NET Project\ProudFoodie\obj\Debug\net6.0\ProudFoodie.pdb
 C:\Users\Somesh Prem\Desktop\ASP.NET Project\ProudFoodie\obj\Debug\net6.0\ProudFoodie.genruntimeconfig.cache
 C:\Users\Somesh Prem\Desktop\ASP.NET Project\ProudFoodie\obj\Debug\net6.0\ref\ProudFoodie.dll
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\ProudFoodie\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\ProudFoodie\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\ProudFoodie\obj\Debug\net6.0\ProudFoodie.MvcApplicationPartsAssemblyInfo.cs
