@@ -1,0 +1,15 @@
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.csproj.AssemblyReference.cache
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.AssemblyInfoInputs.cache
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.AssemblyInfo.cs
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\bin\Debug\net6.0\FastFood.Repository.deps.json
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\bin\Debug\net6.0\FastFood.Repository.dll
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\bin\Debug\net6.0\FastFood.Repository.pdb
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\bin\Debug\net6.0\FastFood.Models.dll
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\bin\Debug\net6.0\FastFood.Models.pdb
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.csproj.CopyComplete
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.dll
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\obj\Debug\net6.0\refint\FastFood.Repository.dll
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\obj\Debug\net6.0\FastFood.Repository.pdb
+C:\Users\Somesh Prem\Desktop\ASP.NET Project\FastFood.Repository\obj\Debug\net6.0\ref\FastFood.Repository.dll
